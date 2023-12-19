@@ -1,1 +1,3 @@
 fe fe fe text file
+
+write to file from VSCODE
